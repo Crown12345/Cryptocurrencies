@@ -1,1 +1,2 @@
 # Cryptocurrencies
+In this project I preformed an analysis on cryptocurrencies data by processing It to fit Into the machine learning models, and using a clustering algorithm to group the cryptocurrencies. In order to that I went through the following steps: <ol> <li>Preprocessing the Data for PCA,</li><li> Reducing Data Dimensions Using PCA,</li> <li>Clustering Cryptocurrencies Using K-means,</li> <li>Visualizing Cryptocurrencies Results.</li> </ol>
